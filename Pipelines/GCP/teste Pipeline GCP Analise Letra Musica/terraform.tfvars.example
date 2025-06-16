@@ -1,0 +1,11 @@
+# Exemplo de arquivo terraform.tfvars
+# Copie este arquivo para terraform.tfvars e ajuste os valores
+
+# Configurações obrigatórias
+project_id = "your-gcp-project-id"
+region     = "us-central1"
+zone       = "us-central1-a"
+
+# Ambiente (dev, staging, prod)
+environment = "dev"
+
