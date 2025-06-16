@@ -31,14 +31,7 @@
 - [x] Validação dos scripts de deploy
 - [x] Documentação de troubleshooting
 
-## Fase 5: Criação de dashboards e visualizações
-- [x] Definir métricas e KPIs
-- [x] Criar queries SQL para análises
-- [x] Configurar Data Studio/Looker
-- [x] Implementar visualizações interativas
-- [x] Criar gerador de visualizações Python
-
-## Fase 6: Documentação técnica completa
+## Fase 5: Documentação técnica completa
 - [x] README principal
 - [x] Guia de instalação
 - [x] Documentação da API
